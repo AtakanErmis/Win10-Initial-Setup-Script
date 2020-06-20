@@ -239,6 +239,8 @@ UninstallFaxAndScan           # InstallFaxAndScan
 ### Install Needed Things ### Functions didn't written yet - don't uncomment these ###
 # InstallVCRedist
 # InstallDirectX
+# InstallDotNetCoreRuntime
+# InstallPowertoys
 # InstallArchLinux
 # InstallTerminal
 # InstallVSCode
