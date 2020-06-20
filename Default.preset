@@ -237,15 +237,17 @@ UninstallFaxAndScan           # InstallFaxAndScan
 # UnpinTaskbarIcons
 
 ### Install Needed Things ### Functions didn't written yet - don't uncomment these ###
+# InstallVCRedist
+# InstallDirectX
 # InstallArchLinux
+# InstallTerminal
+# InstallVSCode
 # InstallChromiumEdge
 # InstallNvidia
 # InstallIntelUHD
 # InstallIntelWifi
 # InstallIntelBT
 # InstallIDM
-# InstallTerminal
-# InstallVSCode
 # InstallSpotify
 # InstallTelegram
 # InstallDiscord
